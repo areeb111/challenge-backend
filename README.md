@@ -1,13 +1,14 @@
 # TouchBistro Coding Challenge
-This project has been made to demonstrate my skills in front-end development using ReactJS
+This project has been made to demonstrate my skills in backend-end development using Node and Express
 
 # Questions
 <p>Q: Do you have production experience with Node prior to the submission of this code challenge? </p>
-A: Yes, I have a prior experience for 2 years.
+<p>A: Yes, I have a prior experience for 2 years.</p>
+
 
 <p>Q: Do you have production experience with React prior to the submission of this code challenge?</p>
-A: Yes, I have more than 5 years of experience with modern JS frameworks & libraries such as React, React-Native and VueJS, But most of my projects were written in 
-VueJS.
+<p>A: Yes, I have more than 5 years of experience with modern JS frameworks & libraries such as React, React-Native and VueJS, But most of my projects were written in 
+VueJS.</p>
 
 # Credits
 Areeb Al-Quraishi
