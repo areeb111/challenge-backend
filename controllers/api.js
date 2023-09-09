@@ -49,7 +49,7 @@ apiController.prime = function(req, res) {
 
     // Get the input number from the query string
     const num  = req.query.num;
-
+    console.log("Checking number: ", num);
     // Check if the input is valid
     if(num <= 1 || num > 10000){
         res.json({ status: false, message: "Invalid input parameter `num` should be between 2 and 10,000" })

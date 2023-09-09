@@ -14,7 +14,7 @@ VueJS.</p>
 Areeb Al-Quraishi
 
 
-# Getting Started with Create React App
+# Getting Started
 
 ### `npm install`
 ### `node app`
